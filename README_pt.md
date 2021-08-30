@@ -8,8 +8,8 @@
       <img alt="Marco Aurélio" src="https://img.shields.io/badge/-Marco Aurélio-000?style=flat&logo=Linkedin&logoColor=000&labelColor=00B65D" />
    </a>
 
-   <a href="./README_pt.md">
-      <img alt="English" src="https://img.shields.io/badge/-Read in Portuguese -000?style=flat&logo=google-translate&logoColor=000&labelColor=00B65D" />
+   <a href="./README.md">
+      <img alt="English" src="https://img.shields.io/badge/-Leia em inglês -000?style=flat&logo=google-translate&logoColor=000&labelColor=00B65D" />
    </a>
 
    <a aria-label="Completed" href="https://rocketseat.com.br/">
@@ -22,8 +22,6 @@
 
 </p>
 
+O Ignite :rocket: é um programa para estudo de  novas tecnologias, através de um currículo extremamente prático, que impulsiona seus alunos através de uma metodologia de aprendizado eficiente baseada em **Foco**, **Prática** e **Grupo**, sempre pensando nos desafios do mundo real. 
 
-
-Ignite 🚀 is a program for the study of new technologies, through an extremely practical curriculum, which drives its students through an efficient learning methodology based on **Focus**, **Practice** and **Group**, always thinking about the challenges of the real world. 
-
-In addition, the program has a specific track for the development of behavioral skills (*soft skills*). To consolidate what we learn in class and associate the knowledge acquired with market needs, we participate in: **challenges**, **events**, **mentorships** and other activities. 
+Além disso, o programa conta com uma trilha específica para o desenvolvimento de habilidades comportamentais (*soft skills*). Para consolidar o que aprendemos nas aulas e associar o conhecimento adquirido às necessidades ao mercado, participamos de: **desafios**, **eventos**, **mentorias** e outras atividades.
