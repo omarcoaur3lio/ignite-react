@@ -9,7 +9,7 @@
    </a>
 
    <a href="./README_pt.md">
-      <img alt="English" src="https://img.shields.io/badge/-Read in Portuguese -000?style=flat&logo=google-translate&logoColor=000&labelColor=00B65D" />
+      <img alt="English" src="https://img.shields.io/badge/-Leia em português -000?style=flat&logo=google-translate&logoColor=000&labelColor=00B65D" />
    </a>
 
    <a aria-label="Completed" href="https://rocketseat.com.br/">
