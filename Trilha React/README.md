@@ -21,7 +21,7 @@ The React track is focused on the main front-end concepts and technologies, wher
 #### :rocket: Chapter I
 In this module we created a base structure of a React application using tools such as Webpack, Babel, Webpack Dev server, SASS, Source Maps, Fast Refresh and discovered the important concepts of React such as components, properties, states and hooks in addition to the TypeScript application for addition of static typing in our projects. 
 - [Chapter project](./lessons/github-explorer)
-- <a href="#crossed_swords-Desafios">Challenges</a>
+- <a href="#crossed_swords-Challenges">Challenges</a>
 
 #### :rocket: Chapter II
 In this module we build a complete web front-end application using important concepts and tools from the React ecosystem such as Styled Components, MirageJS, Context API, hooks and Axios. 
