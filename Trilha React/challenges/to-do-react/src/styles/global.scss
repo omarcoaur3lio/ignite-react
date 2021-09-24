@@ -1,0 +1,48 @@
+:root {
+  --blue: #276CAC;
+  --green: #3FAD27;
+  --green-dark: #5B9478;
+  --red: 	#BE6672;
+  --purple: 	#AE6CE0;
+  --background: #EBEBEB;
+  --shapes: #FFFFFF;
+  --text-title: #3D3D4D;
+  --text: #1C1C29;
+  --text-light: #A09CB1;
+  
+  --dark-500: #17181F;  
+  --dark-400: #21212B;
+  --dark-300: #272833;
+  --dark-200: #414052;
+  --text-dark: #F9F9F9;
+
+  --light: #cccccc;
+  --dark: #151515;
+}
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font: 16px "Poppins", Arial, sans-serif;
+  color: #121214;
+
+}
+
+input, textarea {
+  font-family: "Poppins";
+}
+
+.container {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 2.5rem 1rem;
+}
+
+button, .checkmark {
+  cursor: pointer;
+}
