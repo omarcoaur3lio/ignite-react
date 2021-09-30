@@ -25,3 +25,8 @@
 O Ignite :rocket: é um programa para estudo de  novas tecnologias, através de um currículo extremamente prático, que impulsiona seus alunos através de uma metodologia de aprendizado eficiente baseada em **Foco**, **Prática** e **Grupo**, sempre pensando nos desafios do mundo real. 
 
 Além disso, o programa conta com uma trilha específica para o desenvolvimento de habilidades comportamentais (*soft skills*). Para consolidar o que aprendemos nas aulas e associar o conhecimento adquirido às necessidades ao mercado, participamos de: **desafios**, **eventos**, **mentorias** e outras atividades.
+
+### :tickets: Trilhas do Ignite
+O ignite possui diversas trilhas de aprendizado, focadas em tecnologias e áreas específicas.
+
+<img src="./.github/react.svg" width="18px" /> - [Trilha ReactJS](./Trilha\ React)
