@@ -1,5 +1,5 @@
-<p align="center">
-   <img src="./.github/cover.gif" alt="Ignite" width="100%"/>
+<p>
+   <img src="./.github/cover.gif" alt="Ignite" width="70%"/>
 </p>
 
 <p>	
