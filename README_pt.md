@@ -29,4 +29,4 @@ Além disso, o programa conta com uma trilha específica para o desenvolvimento 
 ### :tickets: Trilhas do Ignite
 O ignite possui diversas trilhas de aprendizado, focadas em tecnologias e áreas específicas.
 
-<img src="./.github/react.svg" width="18px" /> - [Trilha ReactJS](./Trilha\ React)
+<img src="./.github/react.svg" width="18px" /> - [Trilha ReactJS](./Trilha_React)

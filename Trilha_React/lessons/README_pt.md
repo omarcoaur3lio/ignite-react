@@ -1,6 +1,8 @@
-<p align="center">
-   <img src="./.github/cover.gif" alt="Ignite" width="100%"/>
+<p align="left">
+   <img src="./.github/title.svg" alt="Ignite" width="50%"/>
+<img  align="right" src="./.github/img.gif" alt="Ignite" width="30%"/>
 </p>
+
 
 <p>	
    <a href="./README.md">

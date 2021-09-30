@@ -31,4 +31,4 @@ In addition, the program has a specific track for the development of behavioral 
 ### :tickets: Ignite tracks
 Ignite has several learning paths, focused on specific technologies and areas. 
 
-<img src="./.github/react.svg" width="18px" /> - [Trilha ReactJS](./Trilha\ React)
+<img src="./.github/react.svg" width="18px" /> - [Trilha ReactJS](./Trilha_React)
