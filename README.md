@@ -28,7 +28,7 @@ Ignite 🚀 is a program for the study of new technologies, through an extremely
 
 In addition, the program has a specific track for the development of behavioral skills (*soft skills*). To consolidate what we learn in class and associate the knowledge acquired with market needs, we participate in: **challenges**, **events**, **mentorships** and other activities. 
 
-### :tickets: Ignite tracks
+## :tickets: Ignite tracks
 Ignite has several learning paths, focused on specific technologies and areas. 
 
 <img src="./.github/react.svg" width="18px" /> - [Trilha ReactJS](./Trilha_React)
