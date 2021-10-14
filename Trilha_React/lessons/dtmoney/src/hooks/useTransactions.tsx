@@ -1,6 +1,9 @@
-import { createContext, ReactNode, useEffect, useState } from "react";
-import { api } from "./services/api";
+import { createContext, ReactNode, useContext, useEffect, useState } from "react";
+import { api } from "../services/api";
 
+interface TransactionCreate {
+    transaction: Transaction,
+}
 interface Transaction {
     id: number;
     title: string;
@@ -22,7 +25,7 @@ interface TransactionsContextData {
     createTransaction: (transaction: TransactionInput) => Promise<void>;
 }
 
-export const TransactionsContext = createContext<TransactionsContextData>(
+const TransactionsContext = createContext<TransactionsContextData>(
     {} as TransactionsContextData
 );
 
@@ -31,25 +34,18 @@ export function TransactionsProvider({ children }: TransactionsProviderProps) {
 
     useEffect(() => {
         api.get('transactions')
-            .then(response => setTransactions(response.data['transactions']))
+            .then(response => setTransactions(response.data.transactions))
     }, [])
 
     async function createTransaction(transactionInput: TransactionInput) {
-        const response = await api.post('/transactions', {
+        const response = ( await api.post('/transactions', {
             ...transactionInput,
-            crreatedAt: new Date()
-        });
+            createdAt: new Date()
+        })).data as unknown as TransactionCreate;
 
-        // const { transaction } = response.data;
+        const newTransaction  = response.transaction;
 
-        // setTransactions([
-        //     ...transactions,
-        //     transaction,
-        // ]);
-
-        // const { transaction } = response.data;
-
-        // setTransactions([...transactions, transaction]);
+        setTransactions([...transactions, newTransaction]);
     }
 
     return (
@@ -57,4 +53,9 @@ export function TransactionsProvider({ children }: TransactionsProviderProps) {
             {children}
         </TransactionsContext.Provider>
     );
+}
+
+export function useTransactions() {
+    const context = useContext(TransactionsContext);
+    return context;
 }
