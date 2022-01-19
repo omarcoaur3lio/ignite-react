@@ -23,11 +23,12 @@ In this module we created a base structure of a React application using tools su
 - [Developed project](./lessons/github-explorer)
 - [Challenge](./challenges/to-do-react)
 - [Complementary challenge](./challenges/WatchMe)
-#### :rocket: Chapter II
+
+### :rocket: Chapter II
 In this module we build a complete web front-end application using important concepts and tools from the React ecosystem such as Styled Components, MirageJS, Context API, hooks and Axios. 
 - [Developed project](./lessons/dtmoney)
 - [Challenge](./challenges/rocket-shoes)
-#### :rocket: Chapter III
+### :rocket: Chapter III
 In this module we studied Next.js and the concepts of SSR and SSG, the possibility of having back-end functions (serverless) running in a front-end environment and the concept of JAMStack to connect our front-end with a CMS.
 
 ### :rocket: Chapter IV
