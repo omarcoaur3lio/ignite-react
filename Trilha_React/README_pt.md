@@ -18,25 +18,26 @@ A trilha React é focada nos principais conceitos e tecnologias de front-end, on
 
 ## 📚 Capítulos
 
-#### :rocket: Chapter I
+### :rocket: Chapter I
 Nesse módulo criamos a estrutura base de uma aplicação React utilizando ferramentas como Webpack, Babel, Webpack Dev server, SASS, Source Maps, Fast Refresh e descobrimos conceitos importantes do React como componentes, propriedades, estados e hooks além da aplicação de TypeScript para adição de tipagem estática em nossos projetos.
 - [Projeto desenvolvido](./lessons/github-explorer)
 - [Desafio](./challenges/to-do-react)
 - [Desafio complementar](./challenges/WatchMe)
 
-#### :rocket: Chapter II
+### :rocket: Chapter II
 Nesse módulo construímos uma aplicação front-end web completa utilizando conceitos e ferramentas importantes do ecossistema React como Styled Components, MirageJS, Context API, hooks e Axios.
 - [Projeto desenvolvido](./lessons/dtmoney)
 - [Desafio](./challenges/rocket-shoes)
-#### :rocket: Chapter III
+
+### :rocket: Chapter III
 Nesse módulo estudamos o Next.js e os conceitos de SSR e SSG, a possibilidade de termos funções back-end (serverless) executando em um ambiente front-end e o conceito de JAMStack para conectarmos nosso front-end com um CMS.
 
-#### :rocket: Chapter IV
+### :rocket: Chapter IV
 Nesse módulo criamos a interface de um painel administrativo contendo fluxo de autenticação, dashboard, listagem e cadastro usando Chakra UI no Next.js.
 
-#### :rocket: Chapter V
+### :rocket: Chapter V
 Nesse módulo aprendemos como performar aplicações com React entendendo como funcionam os algoritmos internos da biblioteca e todo fluxo de renderização de componentes.
 
-#### :rocket: Chapter VI
+### :rocket: Chapter VI
 Nesse módulo conhecemos as principais estratégias de deploy de uma aplicação ReactJS com e sem Next.js utilizando serviços como Netlify e Vercel principalmente, mas também outras opções para projetos mais complexos.
 
