@@ -1,0 +1,7 @@
+{
+    "commentTranslate.targetLanguage": "pt",
+    "commentTranslate.hover.enabled": true,
+    "cSpell.enableFiletypes": [
+        "markdown"
+    ]
+}
