@@ -40,10 +40,3 @@ Nesse módulo aprendemos como performar aplicações com React entendendo como f
 #### :rocket: Chapter VI
 Nesse módulo conhecemos as principais estratégias de deploy de uma aplicação ReactJS com e sem Next.js utilizando serviços como Netlify e Vercel principalmente, mas também outras opções para projetos mais complexos.
 
-
-## :crossed_swords: Desafios 
-Em cada capítulo do Ignite são propostos desafios (obrigatórios e opcionais), para que possamos medir nosso desenvolvimento e o quanto estamos evoluindo dentro da tecnologia estudada. 
-
-#### Lista de desafios 
-- [[Chapter I]: To-do  com React](./challenges/to-do-react)
-- [[Chapter I]: WatchMe](./challenges/WatchMe)
