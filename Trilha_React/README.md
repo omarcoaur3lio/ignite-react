@@ -18,7 +18,7 @@ The React track is focused on the main front-end concepts and technologies, wher
 
 ## 📚 Chapters  
 
-#### :rocket: Chapter I
+### :rocket: Chapter I
 In this module we created a base structure of a React application using tools such as Webpack, Babel, Webpack Dev server, SASS, Source Maps, Fast Refresh and discovered the important concepts of React such as components, properties, states and hooks in addition to the TypeScript application for addition of static typing in our projects. 
 - [Developed project](./lessons/github-explorer)
 - [Challenge](./challenges/to-do-react)
@@ -30,19 +30,13 @@ In this module we build a complete web front-end application using important con
 #### :rocket: Chapter III
 In this module we studied Next.js and the concepts of SSR and SSG, the possibility of having back-end functions (serverless) running in a front-end environment and the concept of JAMStack to connect our front-end with a CMS.
 
-#### :rocket: Chapter IV
+### :rocket: Chapter IV
 In this module we created the interface of an administrative panel containing authentication flow, dashboard, listing and registration using Chakra UI in Next.js.  
 
-#### :rocket: Chapter V
+### :rocket: Chapter V
 In this module we learned how to perform applications with React understanding how the library's internal algorithms work and the entire component rendering flow. 
 
-#### :rocket: Chapter VI
+### :rocket: Chapter VI
 In this module we know the main deployment strategies of a ReactJS application with and without Next.js using services like Netlify and Vercel mainly, but also other options for more complex projects. 
 
-## :crossed_swords: Challenges 
-In each chapter of Ignite challenges are proposed (required and optional), so that we can measure our development and how much we are evolving within the studied technology. 
-
-#### List of challenges
-- [[Chapter I]: To-do  com React](./challenges/to-do-react)
-- [[Chapter I]: WatchMe](./challenges/WatchMe)
 
