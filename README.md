@@ -27,8 +27,78 @@ O Ignite :rocket: é um programa para estudo de  novas tecnologias, através de 
 Além disso, o programa conta com uma trilha específica para o desenvolvimento de habilidades comportamentais (*soft skills*). Para consolidar o que aprendemos nas aulas e associar o conhecimento adquirido às necessidades ao mercado, participamos de: **desafios**, **eventos**, **mentorias** e outras atividades.
 
 #### :loudspeaker: Aviso
-Este repositório está dividido em duas branches (`trilha-2021` e `trilha-2022`), pois durante o seu desenvolvimento, o conteúdo das trilhas dos cursos foi atualizado.
-### :tickets: Trilhas do Ignite
-O ignite possui diversas trilhas de aprendizado, focadas em tecnologias e áreas específicas.
+Este repositório está dividido em duas branches (`trilha-2021` e `trilha-2022`), pois durante o seu desenvolvimento, o conteúdo do curso foi atualizado.
 
-<img src="./.github/react.svg" width="18px" />&nbsp;&nbsp;[Trilha ReactJS](./trilha_react)
+
+# Trilha React
+
+A trilha React é focada nos principais conceitos e tecnologias de front-end, onde aprendemos a construir interfaces modernas e reativas de forma modular e escalável.
+
+## 📚 Capítulos
+
+### :rocket: Chapter I
+Nesse módulo, criamos uma aplicação React utilizando o [Vite](https://vitejs.dev/) e aprendemos sobre os conceitos mais importantes do React, entre eles estão componentização, propriedades, estados, imutabilidade e hooks, além de aplicar o TypeScript no nosso projeto para adicionar tipagem estática à aplicação.
+
+<table>
+    <tbody>
+        <tr>
+            <td><h3>:computer: Projeto</h3></td>
+            <td><h3>:crossed_swords: Desafio</h3></td>
+            <td><h3>:heavy_check_mark: Quiz</h3></td>
+        </tr>
+     </tr>
+      <tr>
+         <td align="center">
+            <h4>Ignite Feed</h4>
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-feed">
+               <img alt="Ignite Feed" src=".github/cover_ignite_feed.png" />
+            </a>
+         </td>
+         <td align="center">
+            <h4>Ignite ToDo</h4>
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-todo">
+               <img alt="Ignite Feed" src=".github/cover_ignite_todo.png" />
+            </a>
+         </td>
+         <td>
+            <a href="./quizzes/quiz_chapter_one.md">
+               <img alt="Ignite Feed" src=".github/quiz_chapter_one.png" />
+            </a>
+         </td>
+      </tr>
+   </tbody>
+</table>
+
+### :rocket: Chapter II
+Criando SPAs com ReactJS <br />
+Nesse módulo foi desenvolvido uma aplicação completa com roteamento e diversos conceitos importantes do ecossistema React como ContextAPI, useReducer, immer mais.
+
+<table>
+    <tbody>
+        <tr>
+            <td><h3>:computer: Projeto</h3></td>
+            <td><h3>:crossed_swords: Desafio</h3></td>
+            <td><h3>:heavy_check_mark: Quiz</h3></td>
+        </tr>
+     </tr>
+      <tr>
+         <td align="center">
+            <h4>Ignite Timer</h4>
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-timer">
+               <img alt="Ignite Feed" src=".github/cover_ignite_timer.png" />
+            </a>
+         </td>
+         <td align="center">
+            <h4>Coffee Delivery</h4>
+            <a target="_blank" href="https://github.com/omarcoaur3lio/coffee-delivery">
+               <img alt="Ignite Feed" src=".github/cover_coffee_delivery.png" />
+            </a>
+         </td>
+         <td>
+            <a href="./quizzes/quiz_chapter_two.md">
+               <img alt="Ignite Feed" src=".github/quiz_chapter_two.png" />
+            </a>
+         </td>
+      </tr>
+   </tbody>
+</table>
