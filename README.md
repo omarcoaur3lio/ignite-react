@@ -2,7 +2,7 @@
    <img src="./.github/cover.svg" alt="Ignite" width="100%"/>
 </p>
 
-<p align="center">	
+<p align="center">
 
    <a href="https://www.linkedin.com/in/omarcoaur3lio/">
       <img alt="Marco Aurélio" src="https://img.shields.io/badge/-Marco Aurélio-000?style=flat&logo=Linkedin&logoColor=FFF&labelColor=00875F" />
@@ -22,13 +22,13 @@
 
 </p>
 
-O Ignite :rocket: é um programa para estudo de  novas tecnologias, através de um currículo extremamente prático, que impulsiona seus alunos através de uma metodologia de aprendizado eficiente baseada em **Foco**, **Prática** e **Grupo**, sempre pensando nos desafios do mundo real. 
+O Ignite :rocket: é um programa para estudo de novas tecnologias, através de um currículo extremamente prático, que impulsiona seus alunos através de uma metodologia de aprendizado eficiente baseada em **Foco**, **Prática** e **Grupo**, sempre pensando nos desafios do mundo real.
 
-Além disso, o programa conta com uma trilha específica para o desenvolvimento de habilidades comportamentais (*soft skills*). Para consolidar o que aprendemos nas aulas e associar o conhecimento adquirido às necessidades ao mercado, participamos de: **desafios**, **eventos**, **mentorias** e outras atividades.
+Além disso, o programa conta com uma trilha específica para o desenvolvimento de habilidades comportamentais (_soft skills_). Para consolidar o que aprendemos nas aulas e associar o conhecimento adquirido às necessidades ao mercado, participamos de: **desafios**, **eventos**, **mentorias** e outras atividades.
 
 #### :loudspeaker: Aviso
-Este repositório está dividido em duas branches (`trilha-2021` e `trilha-2022`), pois durante o seu desenvolvimento, o conteúdo do curso foi atualizado.
 
+Este repositório está dividido em duas branches (`trilha-2021` e `trilha-2022`), pois durante o seu desenvolvimento, o conteúdo do curso foi atualizado.
 
 # Trilha React
 
@@ -62,7 +62,7 @@ Nesse módulo, criamos uma aplicação React utilizando o [Vite](https://vitejs.
          </td>
          <td>
             <a href="./quizzes/quiz_chapter_one.md">
-               <img alt="Ignite Feed" src=".github/quiz_chapter_one.png" />
+               <img alt="Quiz chapter one" src=".github/quiz_chapter_one.png" />
             </a>
          </td>
       </tr>
@@ -70,7 +70,9 @@ Nesse módulo, criamos uma aplicação React utilizando o [Vite](https://vitejs.
 </table>
 
 ### :rocket: Chapter II
-Criando SPAs com ReactJS <br />
+
+Criando SPAs com ReactJS
+<br />
 Nesse módulo foi desenvolvido uma aplicação completa com roteamento e diversos conceitos importantes do ecossistema React como ContextAPI, useReducer, immer mais.
 
 <table>
@@ -96,7 +98,43 @@ Nesse módulo foi desenvolvido uma aplicação completa com roteamento e diverso
          </td>
          <td>
             <a href="./quizzes/quiz_chapter_two.md">
-               <img alt="Ignite Feed" src=".github/quiz_chapter_two.png" />
+               <img alt="Quiz chapter two" src=".github/quiz_chapter_two.png" />
+            </a>
+         </td>
+      </tr>
+   </tbody>
+</table>
+
+### :rocket: Chapter III
+
+HTTP e Performance
+<br />
+Nesse módulo foi contruído uma aplicação front-end web completa e conectada a uma API. Foram aplicados conceitos focados em performance de aplicações React, entendendo como funcionam os algoritmos internos da biblioteca e todo fluxo de renderização de componentes.
+
+<table>
+    <tbody>
+        <tr>
+            <td><h3>:computer: Projeto</h3></td>
+            <td><h3>:crossed_swords: Desafio</h3></td>
+            <td><h3>:heavy_check_mark: Quiz</h3></td>
+        </tr>
+     </tr>
+      <tr>
+         <td align="center">
+            <h4>DT-Money</h4>
+            <a target="_blank" href="https://github.com/omarcoaur3lio/dt-money">
+               <img alt="DT-Money" src=".github/cover_dt_money.png" />
+            </a>
+         </td>
+         <td align="center">
+            <h4>Github Blog</h4>
+            <a target="_blank" href="https://github.com/omarcoaur3lio/github-blog">
+               <img alt="Github Blog" src=".github/cover_github_blog.png" />
+            </a>
+         </td>
+         <td>
+            <a href="./quizzes/quiz_chapter_three.md">
+               <img alt="Quiz chapter three" src=".github/quiz_chapter_three.png" />
             </a>
          </td>
       </tr>

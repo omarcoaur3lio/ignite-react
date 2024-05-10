@@ -63,7 +63,7 @@ In this module, we create a React application using [Vite](https://vitejs.dev/) 
          </td>
          <td>
             <a href="./quizzes/quiz_chapter_one.md">
-               <img alt="Ignite Feed" src=".github/quiz_projeto_um.png" />
+               <img alt="Quiz chapter one" src=".github/quiz_projeto_um.png" />
             </a>
          </td>
       </tr>
@@ -97,7 +97,43 @@ In this module, a complete application was developed with routing and several im
          </td>
          <td>
             <a href="./quizzes/quiz_chapter_two.md">
-               <img alt="Ignite Feed" src=".github/quiz_chapter_two.png" />
+               <img alt="Quiz chapter two" src=".github/quiz_chapter_two.png" />
+            </a>
+         </td>
+      </tr>
+   </tbody>
+</table>
+
+### :rocket: Chapter III
+
+HTTP and Performance
+<br />
+In this module, a complete front-end web application was built and connected to an API. Concepts focused on the performance of React applications were applied, understanding how the library's internal algorithms and the entire component rendering flow work.
+
+<table>
+    <tbody>
+        <tr>
+            <td><h3>:computer: Project</h3></td>
+            <td><h3>:crossed_swords: Challenge</h3></td>
+            <td><h3>:heavy_check_mark: Quiz</h3></td>
+        </tr>
+     </tr>
+      <tr>
+         <td align="center">
+            <h4>DT-Money</h4>
+            <a target="_blank" href="https://github.com/omarcoaur3lio/dt-money">
+               <img alt="DT-Money" src=".github/cover_dt_money.png" />
+            </a>
+         </td>
+         <td align="center">
+            <h4>Github Blog</h4>
+            <a target="_blank" href="https://github.com/omarcoaur3lio/github-blog">
+               <img alt="Github Blog" src=".github/cover_github_blog.png" />
+            </a>
+         </td>
+         <td>
+            <a href="./quizzes/quiz_chapter_three.md">
+               <img alt="Quiz chapter three" src=".github/quiz_chapter_three.png" />
             </a>
          </td>
       </tr>
