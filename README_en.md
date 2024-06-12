@@ -139,3 +139,26 @@ In this module, a complete front-end web application was built and connected to 
       </tr>
    </tbody>
 </table>
+
+### :rocket: Chapter IV
+
+Integrating Frontend - Backend
+<br />
+This module was developed as a project focused on exercising concepts about React, communication with APIs through HTTP requests, unit tests and E2E tests with Playwright. The project is developed using Vite, React Router DOM, React Hook Form, shadcn/ui, React Query, Vitest and more!
+
+<table>
+    <tbody>
+        <tr>
+            <td><h3>:computer: Project</h3></td>
+        </tr>
+     </tr>
+      <tr>
+         <td align="center">
+            <h4>Pizza Shop</h4>
+            <a target="_blank" href="https://github.com/omarcoaur3lio/pizzashop">
+               <img alt="Pizza Shop"  width="60%" src=".github/cover_pizza_shop.png" />
+            </a>
+         </td>
+      </tr>
+   </tbody>
+</table>

@@ -140,3 +140,26 @@ Nesse módulo foi contruído uma aplicação front-end web completa e conectada 
       </tr>
    </tbody>
 </table>
+
+### :rocket: Chapter IV
+
+Integrando Frontend - Backend
+<br />
+Messe módulo foi desenvolvido um projeto com foco em exercitar os conceitos sobre o React, comunicação com APIs através de requisições HTTP, testes unitários e testes E2E com Playwright . O projeto é desenvolvido utilizando Vite, React Router DOM, React Hook Form, shadcn/ui, React Query, Vitest e mais!
+
+<table>
+    <tbody>
+        <tr>
+            <td><h3>:computer: Projeto</h3></td>
+        </tr>
+     </tr>
+      <tr>
+         <td align="center">
+            <h4>Pizza Shop</h4>
+            <a target="_blank" href="https://github.com/omarcoaur3lio/pizzashop">
+               <img alt="Pizza Shop"  width="60%" src=".github/cover_pizza_shop.png" />
+            </a>
+         </td>
+      </tr>
+   </tbody>
+</table>
