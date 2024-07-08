@@ -38,6 +38,9 @@ The React track is focused on the main front-end concepts and technologies, wher
 ## 📚 Chapters  
 
 ### :rocket: Chapter I
+
+**React.js Fundamentals**
+<br />
 In this module, we create a React application using [Vite](https://vitejs.dev/) and learn about the most important concepts of React, among them are componentization, properties, states, immutability and hooks, in addition to applying TypeScript in our project to add static typing to the application.
 
 <table>
@@ -71,7 +74,8 @@ In this module, we create a React application using [Vite](https://vitejs.dev/) 
 </table>
 
 ### :rocket: Chapter II
-Creating SPAs with ReactJS <br />
+**Creating SPAs with ReactJS **
+<br />
 In this module, a complete application was developed with routing and several important concepts from the React ecosystem such as ContextAPI, useReducer, immer and more.
 
 <table>
@@ -106,7 +110,7 @@ In this module, a complete application was developed with routing and several im
 
 ### :rocket: Chapter III
 
-HTTP and Performance
+**HTTP and Performance**
 <br />
 In this module, a complete front-end web application was built and connected to an API. Concepts focused on the performance of React applications were applied, understanding how the library's internal algorithms and the entire component rendering flow work.
 
@@ -142,7 +146,7 @@ In this module, a complete front-end web application was built and connected to 
 
 ### :rocket: Chapter IV
 
-Integrating Frontend - Backend
+**Integrating Frontend - Backend**
 <br />
 This module was developed as a project focused on exercising concepts about React, communication with APIs through HTTP requests, unit tests and E2E tests with Playwright. The project is developed using Vite, React Router DOM, React Hook Form, shadcn/ui, React Query, Vitest and more!
 
@@ -165,7 +169,7 @@ This module was developed as a project focused on exercising concepts about Reac
 
 ### :rocket: Chapter V
 
-First framework
+**First framework**
 <br />
 In this module, a complete project was developed with the Next.js framework. The StitchesJS library was used for styling, in addition to putting into practice the main concepts about single-page application (SPA), server-side rendering (SSR) and static-site generation (SSG).
 

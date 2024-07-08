@@ -37,6 +37,8 @@ A trilha React é focada nos principais conceitos e tecnologias de front-end, on
 ## 📚 Capítulos
 
 ### :rocket: Chapter I
+**Fundamentos do React.js**
+<br>
 Nesse módulo, criamos uma aplicação React utilizando o [Vite](https://vitejs.dev/) e aprendemos sobre os conceitos mais importantes do React, entre eles estão componentização, propriedades, estados, imutabilidade e hooks, além de aplicar o TypeScript no nosso projeto para adicionar tipagem estática à aplicação.
 
 <table>
@@ -71,7 +73,7 @@ Nesse módulo, criamos uma aplicação React utilizando o [Vite](https://vitejs.
 
 ### :rocket: Chapter II
 
-Criando SPAs com ReactJS
+**Criando SPAs com ReactJS**
 <br />
 Nesse módulo foi desenvolvido uma aplicação completa com roteamento e diversos conceitos importantes do ecossistema React como ContextAPI, useReducer, immer mais.
 
@@ -107,7 +109,7 @@ Nesse módulo foi desenvolvido uma aplicação completa com roteamento e diverso
 
 ### :rocket: Chapter III
 
-HTTP e Performance
+**HTTP e Performance**
 <br />
 Nesse módulo foi contruído uma aplicação front-end web completa e conectada a uma API. Foram aplicados conceitos focados em performance de aplicações React, entendendo como funcionam os algoritmos internos da biblioteca e todo fluxo de renderização de componentes.
 
@@ -143,7 +145,7 @@ Nesse módulo foi contruído uma aplicação front-end web completa e conectada 
 
 ### :rocket: Chapter IV
 
-Integrando Frontend - Backend
+**Integrando Frontend - Backend**
 <br />
 Messe módulo foi desenvolvido um projeto com foco em exercitar os conceitos sobre o React, comunicação com APIs através de requisições HTTP, testes unitários e testes E2E com Playwright . O projeto é desenvolvido utilizando Vite, React Router DOM, React Hook Form, shadcn/ui, React Query, Vitest e mais!
 
@@ -166,7 +168,7 @@ Messe módulo foi desenvolvido um projeto com foco em exercitar os conceitos sob
 
 ### :rocket: Chapter V
 
-Primeiro framework
+**Primeiro framework**
 <br />
 Nesse módulo foi desenvolvido um projeto completo com o framework Next.js. Nele foi usado a biblioteca StitchesJS para estilização, além de ter sido colocado em prática os principais conceitos sobre single-page application (SPA), server-side rendering (SSR) e static-site generation (SSG).
 
