@@ -162,3 +162,32 @@ This module was developed as a project focused on exercising concepts about Reac
       </tr>
    </tbody>
 </table>
+
+### :rocket: Chapter V
+
+First framework
+<br />
+In this module, a complete project was developed with the Next.js framework. The StitchesJS library was used for styling, in addition to putting into practice the main concepts about single-page application (SPA), server-side rendering (SSR) and static-site generation (SSG).
+
+<table>
+    <tbody>
+        <tr>
+            <td><h3>:crossed_swords: Challenge</h3></td>
+            <td><h3>:heavy_check_mark: Quiz</h3></td>
+        </tr>
+     </tr>
+      <tr>
+         <td align="center">
+            <h4>Ignite Shop</h4>
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-shop">
+               <img width="80%" alt="Ignite Shop" src=".github/cover_ignite_ignite_shop.png" />
+            </a>
+         </td>
+         <td>
+            <a href="./quizzes/quiz_chapter_five.md">
+               <img alt="Quiz chapter five" src=".github/quiz_chapter_five.png" />
+            </a>
+         </td>
+      </tr>
+   </tbody>
+</table>

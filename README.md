@@ -163,3 +163,32 @@ Messe módulo foi desenvolvido um projeto com foco em exercitar os conceitos sob
       </tr>
    </tbody>
 </table>
+
+### :rocket: Chapter V
+
+Primeiro framework
+<br />
+Nesse módulo foi desenvolvido um projeto completo com o framework Next.js. Nele foi usado a biblioteca StitchesJS para estilização, além de ter sido colocado em prática os principais conceitos sobre single-page application (SPA), server-side rendering (SSR) e static-site generation (SSG).
+
+<table>
+    <tbody>
+        <tr>
+            <td><h3>:crossed_swords: Desafio</h3></td>
+            <td><h3>:heavy_check_mark: Quiz</h3></td>
+        </tr>
+     </tr>
+      <tr>
+         <td align="center">
+            <h4>Ignite Shop</h4>
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-shop">
+               <img width="80%" alt="Ignite Shop" src=".github/cover_ignite_ignite_shop.png" />
+            </a>
+         </td>
+         <td>
+            <a href="./quizzes/quiz_chapter_five.md">
+               <img alt="Quiz chapter five" src=".github/quiz_chapter_five.png" />
+            </a>
+         </td>
+      </tr>
+   </tbody>
+</table>
