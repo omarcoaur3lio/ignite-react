@@ -195,3 +195,32 @@ In this module, a complete project was developed with the Next.js framework. The
       </tr>
    </tbody>
 </table>
+
+### :rocket: Chapter VI
+
+**Design System**
+<br />
+This module aimed to develop a Design System, using a monorepo to create component packages (Rect), documentation (Storybook), tokens and configurations (Typescript and ESLint). During the classes, several tools used for DS development and publication were studied.
+
+<table>
+    <tbody>
+        <tr>
+            <td><h3>:crossed_swords: Challenge</h3></td>
+            <td><h3>:heavy_check_mark: Quiz</h3></td>
+        </tr>
+     </tr>
+      <tr>
+         <td align="center">
+            <h4>Ignite JS UI</h4>
+            <a target="_blank" href="https://github.com/omarcoaur3lio/ignite-js-ui">
+               <img width="80%" alt="Ignite Shop" src=".github/cover_ignite_js_ui.png" />
+            </a>
+         </td>
+         <td>
+            <a href="./quizzes/quiz_chapter_six.md">
+               <img alt="Quiz chapter five" src=".github/quiz_chapter_six.png" />
+            </a>
+         </td>
+      </tr>
+   </tbody>
+</table>
